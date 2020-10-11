@@ -1,0 +1,33 @@
+@media (max-width:700px){
+    #outerchicken{
+        margin: 10px  50px;
+        
+        
+    }
+    #outerBeef{
+        margin: 10px 50px;
+        
+        
+    }
+    #outershushi{
+        margin: 10px 50px;
+        
+        
+    }
+    .navbar-header{
+       display: block;
+   }
+      #myNavbar{
+          box-sizing: content-box;
+      }
+      .lol{
+          width: 490px;
+      }
+   
+}
+@media (max-width:440px){
+    .lol{
+        width: 350px;
+        
+    }
+}
