@@ -69,6 +69,7 @@ box-sizing: border-box;
   }
   .navbar-brand{
       padding-top: 15px;
+      font-size: 30px;
       color: black;
   }
   .lol{
